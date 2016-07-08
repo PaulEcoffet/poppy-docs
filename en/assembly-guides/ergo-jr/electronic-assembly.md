@@ -14,7 +14,7 @@ Insert the micro-SD card inside the Raspberry Pi: push the micro-SD in the conne
 Plug the pixl at the end of Raspberry Pi headers.
 ![pixl](img/electronic/pixl-step_1-2.jpg)
 
-Once the pixl is plugged (**and not before**), you can plug the DC power and the motors wire.
+Now that the pixl is plugged (**and not before**), we will configure the motors. To do so, we must turn on the card. Plug the DC power and the motors wire.
 ![pixl](img/electronic/pixl-step_3-4-5.jpg)
 
 > **Caution**  **You need to switch off the power supply** of the Pixl board before to put in or to take off the Pixl board of the Raspberry pi. Otherwise, you risk to burn the power converter of the Pixl board.
